@@ -27,6 +27,11 @@ li a{
     text-decoration: none;
     color: white;
 }
+li a:hover{
+    background-color: greenyellow;
+    color: #0a0b0a;
+    font-size: large;
+}
 
 .zakas{
     width: 157px;
